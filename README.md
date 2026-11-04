@@ -1,13 +1,54 @@
-NAZWA: Air-Hot-WARIANTY-inwersyjne
+NAZWA: Air Hot WARIANTY inwersyjne
 
-Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone poza wyjątkami określonymi w pliku LICENSE.md. 
+Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me - w sprawie licencji oraz Darayavahus_IV@keemail.me - w sprawach ogólnych). Wszelkie prawa zastrzeżone poza wyjątkami określonymi w pliku LICENSE.md. 
 LINK do repozytorium : https://github.com/DarayavahusIV/Air-Hot-WARIANTY-inwersyjne
-Model licencyjny i zasady współpracy (Triple-Licensing Model)
-Projekt funkcjonuje w oparciu o unikalny, wielopoziomowy model prawny (którego pełna, wiążąca treść zapisana jest w pliku LICENSE.md). Został on stworzony w celu zapewnienia powszechnej niezależności energetycznej osobom fizycznym przy jednoczesnej rygorystycznej ochronie własności intelektualnej przed nieautoryzowaną komercjalizacją oraz kradzieżą autorskich materiałów informacyjnych: 
-•	Dla osób prywatnych (DIY) – 100% darmowy (CC BY-NC-SA 4.0): W przypadku wdrażania rozwiązań, budowy urządzeń lub systemów na użytek własny, osobisty i bezdochodowy (np. ogrzewanie własnego domu mieszkalnego) cała dokumentacja jest całkowicie bezpłatna. Warunkiem jest własnoręczne wykonanie prac. Zezwala się na kopiowanie i modyfikowanie projektu, pod warunkiem wskazania Autora oraz udostępnienia poprawek na tej samej darmowej licencji (Copyleft). Zatrudnienie komercyjnych osób i/lub firm wykonawczych automatycznie anuluje tę licencję i bezwzględnie wymaga wykupienia licencji B2B. 
-•	Ochrona wolności kodu i automatyki (GPLv3): Wszelkie modyfikacje skryptów automatyki, algorytmów sterujących lub logicznej architektury przepływów realizowane w celach niekomercyjnych podlegają rygorom licencji GPLv3 (bezwzględny obowiązek upublicznienia kodu źródłowego). 
-•	Program Zgłoszeń Partnerskich i Ochrona Prawna (Affiliate Bounty): W celu eliminowania nieautoryzowanych wdrożeń komercyjnych w firmach lub gospodarstwach rolnych bez wykupionej licencji B2B, ustanawia się publiczny program zgłoszeń z nagrodą dla Łowców w wysokości aż 90% skutecznie wyegzekwowanej czystej kwoty netto odszkodowania (szczegóły procedury, Poradnik Legalnych Dowodów oraz zasady Procesowej Cesji Powierniczej opisane są w LICENSE.md). 
-•	Przypadki szczególne (Walka z czarnym rynkiem i partactwem): W celu bezkompromisowej ochrony rynku przed oszustami wprowadzamy rygorystyczną procedurę dyscyplinującą. Jeżeli jakikolwiek komercyjny wykonawca buduje ten system poza systemem podatkowym (w szarej strefie), bez wydania oficjalnej, pisemnej gwarancji na wykonaną pracę, a co najważniejsze: bez wykupionej licencji B2B, bądź próbuje odsprzedawać i komercjalizować samą warstwę tekstową i opisy tego projektu – inwestor, właściciel lub dowolny świadek ma prawo zgłosić ten fakt bezpośrednio do Autora projektu. Współpracująca z projektem kancelaria prawna natychmiast wszczyna procedurę cywilno-prawną i pozywa nieuczciwego wykonawcę/partacza/złodzieja treści na kwotę 50 000 zł oraz równowartość strat z tytułu poniesionych przez autora nieopłaconych licencji komercyjnych B2B z tytułu złamania warunków licencyjnych i autorskich praw majątkowych. Po odliczeniu honorarium kancelarii oraz ewentualnych kosztów procesowych, aż 90% czystej kwoty netto skutecznie wyegzekwowanego odszkodowania trafia bezpośrednio na konto osoby zgłaszającej. Szczegóły procedury, Poradnik Legalnych Dowodów oraz zasady Procesowej Cesji Powierniczej opisane są w LICENSE.md. 
+
+
+💡 PRZECZYTAJ ZANIM ZACZNIESZ (ważna informacja o licencjach i bezpieczeństwie)
+
+Udostępniam swoje pomysły, projekty i technologie publicznie z jedną główną misją: chcę pomóc ludziom oszczędzać pieniądze i dać najuboższym oraz potrzebującym proste, tanie narzędzia do walki z drożyzną. 
+Moje wynalazki są zaprojektowane tak, aby dało się je zbudować z powszechnie dostępnych, niedrogich materiałów.
+Jednak żyjemy w świecie, w którym wielkie korporacje, nieuczciwe firmy i „cwani prawnicy” potrafią zawłaszczyć cudzą ciężką pracę, zamknąć ją za drogimi patentami albo szukać językowych kruczków, by kogoś zaskarżyć. Na to nie pozwalam.
+
+Dlatego ten projekt działa na bardzo twardych, rygorystycznych zasadach prawnych (tzw. Potrójny Model Licencyjny). Pełny tekst prawny znajdziesz na samym końcu tego opracowania (lub w pliku LICENSE.md w moim repozytorium). Poniżej tłumaczę ludzkim językiem, co to oznacza dla Ciebie w praktyce:
+
+1. Budujesz sam dla siebie? Masz to za darmo! (zasada DIY) 🛠️
+
+Jeśli budujesz to urządzenie lub system własnoręcznie (albo z pomocą rodziny/znajomych, którzy nie biorą za to pieniędzy) na swój prywatny użytek – do własnego domu, ogrodu czy garażu – korzystasz ze wszystkiego całkowicie bezpłatnie (na licencji CC BY-NC-SA 4.0). Możesz też ulepszać mój projekt, ale jeśli go gdzieś opublikujesz, musisz podać mnie jako autora, dać link do tego źródła i udostępnić go innym za darmo na tych samych zasadach.
+
+2. Jesteś firmą, instalatorem lub chcesz na tym zarobić? Płać licencję! (zasada B2B)
+
+Kategorycznie zabraniam komercyjnego wykorzystywania moich pomysłów bez opłaconej licencji. Dotyczy to:
+•	firm instalacyjnych, instalatorów i rzemieślników, którzy chcą montować moje systemy klientom za wynagrodzenie.
+•	wdrażania tych rozwiązań w miejscach prowadzenia biznesu (biura, magazyny, pensjonaty, domki na wynajem, gospodarstwa rolne ukierunkowane na zysk itd.).
+•	wykorzystywania moich tekstów i opisów w płatnych szkoleniach, książkach czy e-bookach.
+Jeśli chcesz na tym zarabiać, musisz wykupić oficjalny abonament komercyjny (Licencja B2B).
+
+3. Kara za „szarą strefę” i piractwo technologiczne
+
+Za nielegalne (bezumowne) korzystanie z moich rozwiązań w celach komercyjnych grozi natychmiastowa kara umowna w wysokości 50 000 PLN netto plus zwrot kosztów utraconych licencji. Dotyczy to również sytuacji, w których wykonawca buduje system dla klienta w tzw. szarej strefie (bez faktury i oficjalnej gwarancji).
+
+4. Program dla „Łowców Piratów” (Affiliate Bounty)
+
+Uruchomiłem publiczny program ochrony mojej własności intelektualnej. Jeśli wiesz o firmie, hotelu, pensjonacie lub lewym instalatorze, który zarabia na moich rozwiązaniach bez licencji – zabezpiecz legalne dowody (zdjęcia, screeny z sieci, ulotki) i wyślij je do mnie.
+Współpracuję z kancelariami prawnymi na zasadzie Cesji Powierniczej. Osoba, która dostarczy dowody i podejmie się procesu, w przypadku wygranej lub ugody otrzymuje aż 90% wywalczonej kwoty (czyli zyskuje potężne wynagrodzenie), a tylko 10% wraca do mnie na rozwój kolejnych darmowych projektów dla ludzi.
+
+5. Blokada kruczków prawnych
+
+Wszystko opisuję prosto i zrozumiale dla zwykłego człowieka. Jeśli jakiś prawnik spróbuje złapać mnie za słówko, użyć „kruczka” lub niefortunnego zwrotu językowego, by podważyć te zasady – polskie prawo i moje klauzule końcowe na to nie pozwolą. Intencja tego projektu jest jasna i to ona stoi na pierwszym miejscu przed sądem.
+Żadna korporacja nie może też opatentować moich pomysłów – ta publikacja oficjalnie wprowadza je do domeny publicznej jako tzw. stan techniki (Prior Art), co na zawsze blokuje bogatym podmiotom możliwość zablokowania tej technologii przed biednymi.
+
+6. Robisz to wyłącznie na własne ryzyko (ważne ostrzeżenie!)
+
+Moje projekty są zaawansowane i operują na ekstremalnych, niebezpiecznych parametrach (potencjał generowania temperatur od 140°C do nawet 200°C!). Niewłaściwy montaż, użycie złych materiałów (np. plastiku) lub brak nadzoru grozi ciężkim oparzeniem, pożarem, wybuchem lub zatruciem chemicznym.
+Udostępniam tę wiedzę w celach edukacyjnych i badawczych („AS IS” – w stanie jakim jest). Każda fizyczna budowa wymaga weryfikacji przez uprawnionego inżyniera budownictwa lub instalatora. Nie biorę żadnej odpowiedzialności karnej ani cywilnej za Twoje błędy, wypadki, szkody na zdrowiu czy majątku. Budujesz i testujesz to na własną odpowiedzialność.
+
+Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me - w sprawie licencji oraz Darayavahus_IV@keemail.me - w sprawach ogólnych). Wszelkie prawa zastrzeżone. 
+LINK do repozytorium: https://github.com/DarayavahusIV/Air-Hot-WARIANTY-inwersyjne
+
+
+
+ 
 
 
 Spis treści
@@ -305,7 +346,8 @@ Ograniczenie odpowiedzialności (Disclaimer)
 Autor udostępnia zawarte w repozytorium informacje, rozwiązania, urządzenia i systemy wyłącznie w celach edukacyjnych, informacyjnych i badawczych w stanie, w jakim się znajdują („AS IS”), bez jakichkolwiek gwarancji efektywności. 
 Wszelkie konstrukcje budowane według niniejszego opisu są układami wysokotemperaturowymi (potencjał generowania temperatur od 100°C do nawet 200°C), co niesie za sobą bezpośrednie ryzyko oparzeń, pożaru lub skażenia chemicznego w przypadku błędu montażowego, użycia tworzyw sztucznych w strefie termicznej lub braku stałego nadzoru. Każda fizyczna adaptacja w strukturze budynku musi być zweryfikowana pod kątem statyki przez uprawnionego inżyniera budownictwa. 
 Autor nie ponosi żadnej odpowiedzialności cywilnej, karnej, deliktowej oraz kontraktowej za jakiekolwiek szkody na zdrowiu, życiu lub mieniu powstałe w wyniku interpretacji, budowy, montażu lub użytkowania rozwiązań, urządzeń i systemów opartych na niniejszym opisie. Budujesz i używasz wyłącznie na własną odpowiedzialność, własny koszt i pełne ryzyko prawne. 
-Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone. 
+Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me - w sprawie licencji oraz Darayavahus_IV@keemail.me - w sprawach ogólnych). Wszelkie prawa zastrzeżone. 
+
 Niniejsze opracowanie stanowi utwór inżynieryjno-naukowy i jest chronione potrójnym modelem regulaminu licencyjnego projektu. Dystrybucja komercyjna, odsprzedaż samych treści lub lewe wykonawstwo bez opłaconej licencji B2B podlega karze umownej w wysokości 50 000 zł wraz z obowiązkiem pokrycia równowartości strat z tytułu nieopłaconych licencji (pełna treść i taryfikator kar w pliku LICENSE.md). 
 LINK do repozytorium: https://github.com/DarayavahusIV/Air-Hot-WARIANTY-inwersyjne 
 
